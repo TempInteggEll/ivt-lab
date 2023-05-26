@@ -1,0 +1,6 @@
+Testcases
+    - at the first time in SINGLE mod check if the primary store is fired
+    - at second time in SINGLE mod check if the secondary store is fired
+    - at first time in SINGLE mod check if the primary store is empty so the secondary store is fired
+    - check if ship fires torpedos when fired store reports a failure
+    - in ALL mod check if the program runs smootly when only the primary store has torpedos
